@@ -142,6 +142,7 @@ Feel free to explore, modify, and improve the system.
 ---
 
 Good luck, and happy experimenting 
-Cheers
-Oshim ThankGod Jasper
-(Brooklynboss)
+
+## Cheers
+## Oshim ThankGod Jasper
+## (Brooklynboss)
